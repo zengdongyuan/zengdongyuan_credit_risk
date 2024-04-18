@@ -17,4 +17,3 @@ You can install all the dependencies required by the project using the following
 ```bash
 pip install -r requirements.txt
 
-Translated with www.DeepL.com/Translator (free version)
